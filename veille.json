@@ -1,0 +1,1370 @@
+{
+ "maj": "2026-11-03",
+ "blocs": [
+  {
+   "id": "retenir",
+   "titre": "À retenir",
+   "intro": "Les évolutions majeures, vérifiées sur plusieurs sources du web. Touche un point pour le détail.",
+   "qui": [],
+   "groupes": [
+    {
+     "titre": "Au 1er janvier 2027",
+     "items": [
+      {
+       "tag": "",
+       "tagType": "",
+       "titre": "Carte bancaire sur les bornes rapides existantes",
+       "open": false,
+       "paras": [
+        {
+         "t": "Les points publics de 50 kW et plus installés avant le 13 avril 2024 doivent avoir un lecteur de carte ou un terminal sans contact. L'obligation vise seulement ceux situés sur le réseau routier transeuropéen (RTE-T) ou sur une aire de stationnement sûre et sécurisée. Un même terminal peut servir plusieurs points d'une station. Les bornes de moins de 50 kW ne sont pas concernées.",
+         "w": false
+        }
+       ],
+       "sources": [
+        {
+         "t": "Selectra",
+         "u": "https://selectra.info/energie/actualites/marche/bornes-recharge-2027-paiement-cb-plug-and-charge"
+        },
+        {
+         "t": "Mac4Ever",
+         "u": "https://www.mac4ever.com/auto/198117-bornes-de-recharge-carte-bancaire-obligatoire-en-2027-mais-avec-trop-d-exceptions"
+        },
+        {
+         "t": "Roole",
+         "u": "https://media.roole.fr/transition/voiture-propre/bornes-de-recharge-place-au-paiement-par-carte-bancaire"
+        }
+       ]
+      },
+      {
+       "tag": "",
+       "tagType": "",
+       "titre": "Norme EN ISO 15118-20 sur les nouveaux points",
+       "open": false,
+       "paras": [
+        {
+         "t": "Un règlement délégué du 18 juin 2025 impose l'EN ISO 15118-20 aux points ouverts au public installés ou rénovés à partir du 1er janvier 2027. Il l'étend aussi aux points privés en mode 3 ou 4 installés ou rénovés à partir de cette date, donc entreprises et copropriétés. Les installations existantes restent conformes. Depuis le 8 janvier 2026, les nouveaux points publics doivent déjà gérer l'EN ISO 15118-2.",
+         "w": false
+        }
+       ],
+       "sources": [
+        {
+         "t": "Selectra",
+         "u": "https://selectra.info/energie/actualites/marche/bornes-recharge-2027-paiement-cb-plug-and-charge"
+        },
+        {
+         "t": "Journal du Geek",
+         "u": "https://www.journaldugeek.com/2026/09/18/bornes-de-recharges-voici-ce-qui-change-pour-les-voitures-electriques-des-le-1er-janvier-2027/"
+        },
+        {
+         "t": "GNT",
+         "u": "https://www.generation-nt.com/actualites/obligations-2027-transformation-bornes-recharge-electrique-2081396"
+        }
+       ]
+      },
+      {
+       "tag": "",
+       "tagType": "",
+       "titre": "Plug & Charge",
+       "open": false,
+       "paras": [
+        {
+         "t": "La norme rend le Plug & Charge possible, mais l'Europe impose le standard, pas le service. Il faut aussi que la voiture et le contrat de recharge suivent. Les badges et applis ne disparaissent donc pas le 1er janvier.",
+         "w": true
+        }
+       ],
+       "sources": [
+        {
+         "t": "Mac4Ever",
+         "u": "https://www.mac4ever.com/auto/198117-bornes-de-recharge-carte-bancaire-obligatoire-en-2027-mais-avec-trop-d-exceptions"
+        },
+        {
+         "t": "Selectra",
+         "u": "https://selectra.info/energie/actualites/marche/bornes-recharge-2027-paiement-cb-plug-and-charge"
+        }
+       ]
+      },
+      {
+       "tag": "",
+       "tagType": "",
+       "titre": "600 kW par station sur les grands axes (fin 2027)",
+       "open": false,
+       "paras": [
+        {
+         "t": "Sur le réseau central RTE-T, une station tous les 60 km au maximum : 400 kW cumulés depuis fin 2025, 600 kW avec au moins deux points de 150 kW ou plus au 31 décembre 2027. Selon la DGEC, la France atteint déjà les exigences de fin 2027.",
+         "w": false
+        }
+       ],
+       "sources": [
+        {
+         "t": "Avere-France",
+         "u": "https://www.avere-france.org/ce-qui-change-en-2026-pour-la-mobilite-electrique/"
+        },
+        {
+         "t": "Flotauto",
+         "u": "https://www.flotauto.com/recharge-publique-france/"
+        },
+        {
+         "t": "Presse Agence",
+         "u": "https://presseagence.fr/paris-bornes-de-recharge-le-deploiement-a-deux-vitesses-inquiete-les-transporteurs-routiers/"
+        }
+       ]
+      },
+      {
+       "tag": "",
+       "tagType": "",
+       "titre": "Flottes d'entreprise",
+       "open": false,
+       "paras": [
+        {
+         "t": "Pour les entreprises privées, le quota est désormais piloté par la taxe annuelle incitative (TAI), pour les flottes d'au moins 100 véhicules légers. Objectif : 18 % de véhicules à faibles émissions en 2026, 25 % en 2027, avec 5 000 € par véhicule manquant en 2027 contre 4 000 € en 2026.",
+         "w": false
+        },
+        {
+         "t": "Le « 35 % pour les entreprises de plus de 100 salariés » est faux : le seuil porte sur le nombre de véhicules. Certains sites citent encore l'ancien quota LOM de 40 % des renouvellements. Selon Electra, à partir de 2027 seuls les 100 % électriques et l'hydrogène comptent, point à confirmer dans la loi de finances 2027.",
+         "w": true
+        }
+       ],
+       "sources": [
+        {
+         "t": "MyLeasing",
+         "u": "https://www.myleasing.fr/loi-lom-tai-2027-verdissement-flotte/"
+        },
+        {
+         "t": "Voltaback",
+         "u": "https://www.voltaback.com/blog/verdissement-flotte-automobile/"
+        },
+        {
+         "t": "Electra",
+         "u": "https://www.go-electra.com/fr/newsroom/corporate-electric-vehicle-mandate/"
+        },
+        {
+         "t": "Ministère",
+         "u": "https://www.ecologie.gouv.fr/politiques-publiques/verdissement-du-parc-automobile"
+        }
+       ]
+      },
+      {
+       "tag": "",
+       "tagType": "",
+       "titre": "Flottes de l'État : 100 % électrique",
+       "open": false,
+       "paras": [
+        {
+         "t": "Une circulaire du 9 juin 2026 impose qu'à partir du 1er janvier 2027, les voitures et utilitaires légers achetés ou loués par l'État et ses établissements publics soient 100 % électriques, avec des dérogations pour les missions d'urgence, les besoins de grande autonomie ou l'absence de recharge. Cela va générer des besoins en bornes sur les sites publics.",
+         "w": false
+        }
+       ],
+       "sources": [
+        {
+         "t": "Automobile Propre",
+         "u": "https://www.automobile-propre.com/articles/flottes-tous-les-services-de-letat-francais-bientot-forces-de-passer-a-lelectrique-enfin-presque/"
+        },
+        {
+         "t": "Orange Auto",
+         "u": "https://auto.orange.fr/green-auto/news/l-etat-devra-acheter-et-rouler-electrique-des-2027-mais-pas-dans-tous-les-cas-CNT000002qgOLa.html"
+        }
+       ]
+      },
+      {
+       "tag": "Ajouté 10 oct.",
+       "tagType": "new",
+       "titre": "TVA : les références passent du CGI au CIBS",
+       "open": false,
+       "paras": [
+        {
+         "t": "Les règles de TVA quittent le code général des impôts (CGI) pour le code des impositions sur les biens et services (CIBS) le 1er janvier 2027. Ce transfert était prévu le 1er septembre 2026 : l'ordonnance du 27 juillet 2026 l'a reporté. Sur Légifrance, l'article 278-0 bis du CGI, qui fonde la TVA à 5,5 % des bornes, est annoncé comme abrogé à cette date. L'administration fiscale précise que les anciennes références au CGI restent utilisables jusqu'au 30 juin 2028.",
+         "w": false
+        },
+        {
+         "t": "La recodification est présentée comme faite à droit constant : la numérotation change, pas les règles. Le numéro du futur article du CIBS pour les bornes n'a pas été vérifié lors de cette mise à jour.",
+         "w": true
+        }
+       ],
+       "sources": [
+        {
+         "t": "BOFiP (7 oct. 2026)",
+         "u": "https://bofip.impots.gouv.fr/bofip/15140-PGP.html/ACTU-2026-00126"
+        },
+        {
+         "t": "Légifrance, art. 278-0 bis (consulté le 10 oct. 2026)",
+         "u": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053562844"
+        },
+        {
+         "t": "Kohen Avocats (28 juil. 2026)",
+         "u": "https://kohenavocats.com/recodification-tva-cibs-ordonnance-27-juillet-2026-report-1er-janvier-2027"
+        },
+        {
+         "t": "Lefebvre Dalloz (24 févr. 2026)",
+         "u": "https://formation.lefebvre-dalloz.fr/actualite/transfert-des-regles-tva-dans-le-cibs-quels-changements"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "titre": "Déjà en place",
+     "items": [
+      {
+       "tag": "Nouveau sept. 2026",
+       "tagType": "new",
+       "titre": "Prime CEE étendue aux VE d'occasion",
+       "open": false,
+       "paras": [
+        {
+         "t": "Depuis le 1er septembre 2026, l'achat ou la location d'un véhicule électrique d'occasion chez un professionnel est éligible à la prime CEE. Des mesures spécifiques visent aussi les aides à domicile, les structures qui les emploient et les taxis.",
+         "w": false
+        },
+        {
+         "t": "Premier bilan de l'Avere-France, publié le 9 octobre : en septembre, 10 603 des 22 428 voitures électriques d'occasion immatriculées étaient potentiellement éligibles, soit 47 %. L'aide est d'environ 350 €, un montant que l'association juge peu significatif. Elle annonce qu'elle proposera de le relever dès 2027.",
+         "w": false
+        }
+       ],
+       "sources": [
+        {
+         "t": "info.gouv.fr",
+         "u": "https://www.info.gouv.fr/actualite/ce-qui-change-en-septembre-2026"
+        },
+        {
+         "t": "Avere-France (9 oct. 2026)",
+         "u": "https://www.avere-france.org/publication/barometre-du-marche-des-voitures-electriques-doccasion-61-349-transactions-au-t3-2026/"
+        }
+       ]
+      },
+      {
+       "tag": "Nouveau 1er oct.",
+       "tagType": "new",
+       "titre": "Contrôles Advenir confiés à Socotec",
+       "open": false,
+       "paras": [
+        {
+         "t": "Depuis le 1er octobre 2026, Socotec réalise les contrôles sur site du programme Advenir, en métropole et dans les DROM. Le prestataire contacte le porteur d'offre et propose 6 dates en 3 sollicitations, chacune avec au moins 72 heures ouvrées de préavis. Le rapport arrive sous 4 jours calendaires après la visite.",
+         "w": false
+        },
+        {
+         "t": "Les deux premières contre-visites de chaque porteur sont prises en charge par l'Avere-France, les suivantes lui sont facturées. Les compteurs repartent de zéro au 1er octobre. Si le contrôle initial d'un nouveau porteur révèle une non-conformité qui bloque la prime, un second contrôle sur un autre dossier lui est facturé.",
+         "w": false
+        }
+       ],
+       "sources": [
+        {
+         "t": "Advenir (28 sept. 2026)",
+         "u": "https://advenir.mobi/2026/09/28/le-programme-advenir-integre-un-nouveau-partenaire-pour-ses-controles-socotec/"
+        }
+       ]
+      },
+      {
+       "tag": "Terminé",
+       "tagType": "end",
+       "titre": "Crédit d'impôt borne de recharge (CIBRE)",
+       "open": false,
+       "paras": [
+        {
+         "t": "Le crédit d'impôt de 75 % plafonné à 500 € par borne pilotable a pris fin le 31 décembre 2025. La loi de finances 2026 ne l'a pas reconduit.",
+         "w": false
+        },
+        {
+         "t": "Des articles de fin 2025 annoncent encore une prolongation jusqu'en 2027 : les amendements ont été rejetés, ces articles sont périmés.",
+         "w": true
+        }
+       ],
+       "sources": [
+        {
+         "t": "Automobile Propre",
+         "u": "https://www.automobile-propre.com/dossiers/credit-impot-installation-borne-recharge/"
+        },
+        {
+         "t": "impots.gouv.fr",
+         "u": "https://www.impots.gouv.fr/particulier/questions/je-viens-dacquerir-une-borne-de-recharge-pour-ma-voiture-electrique-puis-je"
+        }
+       ]
+      },
+      {
+       "tag": "Terminé",
+       "tagType": "end",
+       "titre": "Primes Advenir des professionnels de l'automobile",
+       "open": false,
+       "paras": [
+        {
+         "t": "Les primes Advenir réservées aux services de l'automobile (flottes, parkings ouverts au public, loueurs, stations indépendantes) ne sont plus accessibles depuis le 1er janvier 2026. En copropriété, les barèmes ont été revalorisés au 1er avril 2026.",
+         "w": false
+        }
+       ],
+       "sources": [
+        {
+         "t": "MaBorneAuto",
+         "u": "https://maborneauto.com/pro/borne-recharge-concession-automobile/"
+        },
+        {
+         "t": "ECOInfos",
+         "u": "https://www.les-energies-renouvelables.eu/conseils/borne-de-recharge-irve/reglementation-borne-de-recharge-loi-lom/"
+        }
+       ]
+      },
+      {
+       "tag": "Corrigé 10 oct.",
+       "tagType": "new",
+       "titre": "Qualification IRVE : texte de référence et référentiels 2026",
+       "open": false,
+       "paras": [
+        {
+         "t": "L'obligation de qualification figure à l'article D. 353-2 du code de l'énergie, en vigueur depuis le 1er juillet 2024. Il reprend l'article 22 du décret 2017-26, abrogé par le décret n° 2024-649 du 30 juin 2024. Tout point de recharge est installé par un professionnel habilité (article R. 4544-9 du code du travail). La qualification est exigée pour l'installation et la maintenance, sauf pour les infrastructures d'une puissance totale de 3,7 kW au plus, installées dans un bâtiment d'habitation privé ou sa dépendance, ou dont la fonction principale n'est pas la recharge et qui ne sont pas accessibles au public. Elle est délivrée par un organisme agréé par le ministère : l'agrément a remplacé l'accréditation. Les exigences restent celles de l'arrêté du 27 octobre 2021. Selon l'Avere-France, la qualification est délivrée pour 4 ans avec suivi annuel.",
+         "w": false
+        },
+        {
+         "t": "Référentiels de formation : l'Avere-France et les acteurs de la formation ont publié une mise à jour datée de mai 2026. Évaluation préalable des compétences en électrotechnique avant P1, P2 et P3. Épreuve pratique sur un geste métier, qui compte pour 25 % de la note finale, le QCM pour 75 %. Sensibilisation à la gestion de l'énergie et au pilotage de la recharge en P1. Rappel des règles de l'art en P1, P2 et P3, avec un focus sur le serrage au couple. Objectifs de P3 précisés pour la recharge rapide. Les référentiels MA2 et MA3, mis à jour en juin 2026, restent facultatifs : P2 devient le prérequis de MA2, P3 celui de MA3.",
+         "w": false
+        },
+        {
+         "t": "Le recyclage des référents techniques est une recommandation de la filière, pas une obligation : le rendre opposable supposerait de modifier l'arrêté du 27 octobre 2021, selon l'Avere-France. La page de l'Avere-France cite encore l'article 22 du décret 2017-26, que Légifrance donne comme abrogé et repris à l'article D. 353-2. Elle ne précise pas à partir de quelle date les nouveaux référentiels s'appliquent.",
+         "w": true
+        }
+       ],
+       "sources": [
+        {
+         "t": "Légifrance, art. D. 353-2 du code de l'énergie",
+         "u": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049851527"
+        },
+        {
+         "t": "Légifrance, décret n° 2024-649 du 30 juin 2024",
+         "u": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049849571"
+        },
+        {
+         "t": "Avere-France (consulté le 10 oct. 2026)",
+         "u": "https://www.avere-france.org/referentiels-irve/"
+        },
+        {
+         "t": "AE-T",
+         "u": "https://www.aet-energy.fr/2026/02/18/qualification-irve-role-obtention-et-obligations-en-2026/"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "titre": "À surveiller",
+     "items": [
+      {
+       "tag": "JO 23 oct.",
+       "tagType": "new",
+       "titre": "Score environnemental des voitures électriques réformé",
+       "open": true,
+       "paras": [
+        {
+         "t": "Deux arrêtés du 22 octobre 2026 sont parus au Journal officiel du 23 octobre. Le premier modifie la méthode de calcul du score environnemental (arrêté du 7 octobre 2023) : il ajoute une troisième catégorie de véhicules, définit ses seuils techniques d'entrée et son mode de calcul, et ajuste les seuils des deux catégories existantes pour tenir compte de l'évolution de l'offre depuis 2023. Il entre en vigueur le 24 octobre 2026 ; selon son article 2, des dispositions dans leur rédaction antérieure restent applicables jusqu'au 23 novembre 2026 inclus.",
+         "w": false
+        },
+        {
+         "t": "Le second remplace la liste des versions de voitures électriques qui atteignent le score minimal, à compter du 24 novembre 2026. Selon sa notice, ce score est notamment une condition du Coup de pouce « Véhicules particuliers électriques » des CEE et du leasing social. Utile en formation : un modèle éligible aujourd'hui peut ne plus l'être après le 24 novembre, à vérifier modèle par modèle.",
+         "w": false
+        },
+        {
+         "t": "Ajouté le 1er novembre, transition (article 2 de l'arrêté « liste », relu sur Légifrance) : « Lorsqu'elles sont plus avantageuses », les dispositions de l'arrêté du 14 décembre 2023 dans leur rédaction antérieure « restent applicables aux véhicules commandés ou dont le contrat de location a été signé avant le 24 novembre 2026, à condition que leur facturation ou le versement du premier loyer intervienne au plus tard le 6 février 2027 ». Selon Selectra (28 octobre), le dernier jour pour signer est donc le lundi 23 novembre.",
+         "w": false
+        },
+        {
+         "t": "Seules la notice, l'article 2 de l'arrêté « liste » et des extraits ont été lus ; le détail des seuils et la liste complète des modèles n'ont pas été relus. Le nombre de versions de la nouvelle liste diffère selon la presse (1 241 selon Selectra, 1 239 selon Auto Plus) : non recompté. Le texte ne dit pas, dans la partie lue, si cette réforme correspond au critère de « résilience » (batteries européennes) prévu par le projet de budget 2027 : ne pas faire le lien sans source. Le visa de l'arrêté « liste » cite un arrêté « du 21 octobre 2026 » modifiant la méthode, alors que celui publié est daté du 22 octobre.",
+         "w": true
+        }
+       ],
+       "sources": [
+        {
+         "t": "Légifrance, arrêté du 22 oct. 2026 (méthode, NOR TECR2628101A)",
+         "u": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055009166"
+        },
+        {
+         "t": "Légifrance, arrêté du 22 oct. 2026 (liste, NOR TECR2628100A)",
+         "u": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055009148"
+        },
+        {
+         "t": "Légifrance, JO du 23 oct. 2026",
+         "u": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/23/0248"
+        },
+        {
+         "t": "Selectra (28 oct. 2026)",
+         "u": "https://selectra.info/energie/actualites/marche/voiture-electrique-liste-aidee-24-novembre"
+        },
+        {
+         "t": "Auto Plus (27 oct. 2026)",
+         "u": "https://www.autoplus.fr/environnement/voiture-electrique/le-calcul-de-leco-score-a-change-quel-impact-sur-les-voitures-electriques-1473445.html"
+        }
+       ]
+      },
+      {
+       "tag": "Annoncé 15 oct.",
+       "tagType": "new",
+       "titre": "Aide de 500 € pour une borne pilotable à domicile (2027)",
+       "open": true,
+       "paras": [
+        {
+         "t": "Le gouvernement a présenté le 15 octobre 2026 la seconde phase du plan d'électrification. Mesure 6 : une aide de 500 € pour installer une borne de recharge pilotable à domicile, à partir du 1er janvier 2027. Selon le ministère de l'Économie, cette prime sera intégrée à celle des certificats d'économies d'énergie (CEE) pour les véhicules électriques. Le ministère avance une baisse de 35 % du coût de la recharge grâce au pilotage.",
+         "w": false
+        },
+        {
+         "t": "Selon le Journal de l'Automobile (14 octobre) et Automobile Propre (15 octobre), l'aide serait réservée aux maisons individuelles et liée à l'achat d'un véhicule électrique d'occasion : la prime CEE occasion (environ 300 à 350 €) serait portée à 500 € au total si l'acheteur fait aussi installer une borne pilotable.",
+         "w": false
+        },
+        {
+         "t": "Corrigé le 26 octobre : la page du ministère de l'Économie ne mentionne ni « occasion » ni « maison individuelle », mais la page de la Direction générale des entreprises publiée le 13 octobre écrit : « Une aide de 500 € pour l'installation d'une borne de recharge pilotable en maison individuelle attribuée lors d'un achat d'un véhicule électrique d'occasion sera proposée à compter du 1er janvier 2027. » Ces deux conditions ont donc une source officielle, et plus seulement la presse.",
+         "w": true
+        },
+        {
+         "t": "Annonce, pas un texte en vigueur : aucun arrêté ni fiche CEE n'a été trouvé au 3 novembre (JO du 3 novembre consulté, pas de JO le 2). On ne sait pas encore si les 500 € s'ajoutent à la prime véhicule ou la remplacent, ni quelles exigences techniques s'appliqueront à la borne (pilotage, qualification de l'installateur). À ne pas présenter comme acquis en formation avant publication de la fiche CEE.",
+         "w": true
+        }
+       ],
+       "sources": [
+        {
+         "t": "Direction générale des entreprises (13 oct. 2026, consulté le 26 oct.)",
+         "u": "https://www.entreprises.gouv.fr/la-dge/actualites/mondial-de-lauto-2026-le-gouvernement-renforce-son-engagement-pour-lindustrie"
+        },
+        {
+         "t": "economie.gouv.fr (15 oct. 2026)",
+         "u": "https://www.economie.gouv.fr/actualites/lancement-de-la-seconde-phase-du-plan-delectrification"
+        },
+        {
+         "t": "Journal de l'Automobile (14 oct. 2026)",
+         "u": "https://journalauto.com/services/bercy-devoile-un-plan-borne-pour-les-acheteurs-de-voitures-electriques-doccasion/"
+        },
+        {
+         "t": "Automobile Propre (15 oct. 2026)",
+         "u": "https://www.automobile-propre.com/articles/bornes-de-recharge-a-domicile-une-nouvelle-aide-arrive-mais-avec-des-conditions-precises/"
+        }
+       ]
+      },
+      {
+       "tag": "Annoncé 15 oct.",
+       "tagType": "new",
+       "titre": "Transparence des prix sur les bornes (2027)",
+       "open": false,
+       "paras": [
+        {
+         "t": "Mesure 7 du plan d'électrification : le gouvernement rendra obligatoires l'affichage du prix en €/kWh et de la puissance instantanée délivrée sur les bornes rapides de plus de 50 kW, et une note de paiement détaillant le prix pour toutes les bornes. Calendrier annoncé : avril 2027 pour la note de paiement et pour l'affichage sur les nouvelles stations, novembre 2027 pour l'affichage sur les stations existantes.",
+         "w": false
+        },
+        {
+         "t": "Annonce : le texte qui fixera ces obligations n'est pas encore publié et sa nature (décret, arrêté) n'est pas précisée. Utile pour les opérateurs et la maintenance : prévoir l'adaptation de l'affichage des bornes rapides existantes.",
+         "w": true
+        },
+        {
+         "t": "Seuil (corrigé le 2 nov.) : le dossier de presse officiel du 15 octobre écrit « bornes rapides (≥ 50kW) », comme Automobile Propre, alors que la page web du ministère écrit « (>50kW) ». Les deux documents officiels divergent : une borne de 50 kW pile est probablement visée, mais seul le futur texte tranchera.",
+         "w": true
+        },
+        {
+         "t": "Calendrier du texte (corrigé le 2 nov.) : ce n'est plus seulement une information de presse. Le dossier de presse du gouvernement écrit : « Ces dispositions feront l'objet d'un arrêté qui sera mis en consultation d'ici le 1er novembre 2026. » Cette échéance est dépassée : au 2 novembre, aucune consultation sur ce sujet n'a été trouvée (la liste de vie-publique.fr ne montre, parmi les consultations ouvertes récentes, que des projets sans lien avec les bornes : fiches CEE TRA-EQ-128 et 129, suppression de BAR-TH-159, sites d'observation astronomique), et rien au JO jusqu'au 1er novembre. Vérifications quotidiennes du 19 octobre au 1er novembre : même résultat. Au 3 novembre : toujours aucune consultation trouvée par recherche web, et rien au JO du 3 novembre (pas de JO le 2). Un podcast du 27 octobre (Monde Numérique, interview d'EDF) parlait d'un « décret » : le dossier de presse, lui, annonce un arrêté.",
+         "w": true
+        }
+       ],
+       "sources": [
+        {
+         "t": "Dossier de presse du ministère de l'Économie (15 oct. 2026, relu le 2 nov.)",
+         "u": "https://presse.economie.gouv.fr/download/?id=185587&n=1123%20-%20DP%20-%20%C3%89lectrifions%20la%20France%20!%20-%20Pr%C3%A9sentation%20de%20la%20deuxi%C3%A8me%20phase%20du%20plan%20d%C3%A9lectrification-pdf"
+        },
+        {
+         "t": "vie-publique.fr, liste des dernières consultations (vue le 2 nov. 2026)",
+         "u": "https://www.vie-publique.fr/consultations/304562-arrete-modification-du-programme-advenir-dispositif-cee"
+        },
+        {
+         "t": "economie.gouv.fr (15 oct. 2026, relu le 19 oct.)",
+         "u": "https://www.economie.gouv.fr/actualites/lancement-de-la-seconde-phase-du-plan-delectrification"
+        },
+        {
+         "t": "Automobile Propre (16 oct. 2026)",
+         "u": "https://www.automobile-propre.com/articles/bornes-de-recharge-bonne-nouvelle-le-gouvernement-veut-mettre-fin-au-flou-sur-les-prix/"
+        }
+       ]
+      },
+      {
+       "tag": "En retard",
+       "tagType": "late",
+       "titre": "Directive EPBD : bornes et précâblage des parkings",
+       "open": false,
+       "paras": [
+        {
+         "t": "La directive européenne sur les bâtiments renforce les obligations de bornes et de précâblage des parkings, notamment non résidentiels. Elle devait être transposée au 29 mai 2026 : ce délai est dépassé. Le texte français (projet de loi DADUE, article 45) a été adopté par le Sénat le 18 février 2026, puis déposé à l'Assemblée nationale le 20 février (n° 2518). Au 14 octobre 2026, le dossier de l'Assemblée n'affiche toujours aucune date d'examen, ni en commission ni en séance, et aucun rapporteur. L'ordre du jour arrêté le 6 octobre et modifié le 9 octobre, qui court jusqu'au 17 novembre, ne mentionne pas ce texte. Dans la version du Sénat, les seuils d'installation de bornes seraient fixés par décret selon le taux d'utilisation des bornes existantes. Au niveau européen, les parkings non résidentiels existants de plus de 20 places devraient avoir 10 % de places équipées d'une borne au 1er janvier 2027, avec report possible à 2029.",
+         "w": false
+        },
+        {
+         "t": "Les seuils français exacts ne sont pas encore fixés : à suivre de près.",
+         "w": true
+        }
+       ],
+       "sources": [
+        {
+         "t": "FNMS (juillet 2026)",
+         "u": "https://www.fnms.fr/irve-et-ombrieres-quelles-consequences-de-labsence-de-transposition-de-la-directive-epbd/"
+        },
+        {
+         "t": "FNMS (directive)",
+         "u": "https://www.fnms.fr/performance-energetique-la-nouvelle-directive-publiee-au-journal-officiel/"
+        },
+        {
+         "t": "FNMS (juin 2026)",
+         "u": "https://www.fnms.fr/solarisation-le-projet-de-loi-dadue-toujours-absent-de-lordre-du-jour-de-lassemblee/"
+        },
+        {
+         "t": "Assemblée nationale (dossier consulté le 14 oct. 2026)",
+         "u": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140"
+        },
+        {
+         "t": "Assemblée nationale (ordre du jour du 6 oct., modifié le 9 oct. 2026)",
+         "u": "https://www.assemblee-nationale.fr/dyn/static/seance/conference.pdf"
+        }
+       ]
+      },
+      {
+       "tag": "Ajouté 12 oct.",
+       "tagType": "new",
+       "titre": "Projet d'arrêté : Advenir prolongé jusqu'en 2030",
+       "open": false,
+       "paras": [
+        {
+         "t": "Projet d'arrêté soumis à consultation publique du 15 septembre au 6 octobre 2026 : la fin du programme Advenir passerait du 31 décembre 2027 au 31 décembre 2030, avec une seconde enveloppe de 400 millions d'euros au plus. Renforcement prévu en résidentiel collectif et pour les poids lourds, primes dégressives sur 3 ans pour les bornes de voirie des véhicules particuliers.",
+         "w": false
+        },
+        {
+         "t": "Projet non publié au Journal officiel à la date du 3 novembre 2026 (rien dans les sommaires consultés des JO du 14 octobre au 3 novembre, aucun JO les 19 et 26 octobre ni le 2 novembre). Sur le site Advenir, la seule nouvelle publication depuis le 28 septembre (2 novembre) porte sur le justificatif de publication des données, pas sur la prolongation ; la page d'accueil affiche toujours « 2027 fin du programme » (vue le 3 novembre). Corrigé le 2 novembre : contrairement à ce qu'indiquait cette page, le dossier de presse du plan d'électrification (15 octobre) annonce bien un « grand plan bornes électriques à hauteur de 400 M€, via le programme CEE Advenir » (copropriétés, poids lourds et cars, navires de pêche, 109 territoires d'électrification) : annonce cohérente avec le projet d'arrêté, mais pas un texte publié. Dans une interview à Automobile Propre (20 octobre), l'Avere-France, qui pilote Advenir, parle déjà de « reconduction d'Advenir jusqu'en 2030 » : c'est sa lecture du plan d'électrification, pas un texte publié : rien n'est acquis, et les barèmes futurs ne sont pas connus. Attention à la confusion : l'arrêté CEE du 17 septembre 2026 publié au JO du 8 octobre modifie le programme ACTEE+ (bâtiments publics des collectivités), pas Advenir.",
+         "w": true
+        },
+        {
+         "t": "Information contradictoire (ajouté le 31 oct.) : le rapport pour avis de la commission des affaires économiques sur les crédits « Énergie » du budget 2027 (n° 3337, tome V, rapporteur Jean-Luc Fugit, mis en ligne le 28 octobre) écrit que « le programme Advenir de soutien aux bornes de recharge a été prolongé en juillet 2026 avec 400 M€ ». Or la consultation sur le projet d'arrêté s'est tenue du 15 septembre au 6 octobre 2026 et aucun arrêté n'a été trouvé au JO ; le site Advenir affiche toujours « 2027 fin du programme ». Le rapport ne cite pas de texte : il s'agit probablement de l'annonce du réabondement, pas d'un arrêté publié. Ne pas présenter la prolongation comme acquise.",
+         "w": true
+        }
+       ],
+       "sources": [
+        {
+         "t": "Dossier de presse du ministère de l'Économie (15 oct. 2026, relu le 2 nov.)",
+         "u": "https://presse.economie.gouv.fr/download/?id=185587&n=1123%20-%20DP%20-%20%C3%89lectrifions%20la%20France%20!%20-%20Pr%C3%A9sentation%20de%20la%20deuxi%C3%A8me%20phase%20du%20plan%20d%C3%A9lectrification-pdf"
+        },
+        {
+         "t": "Assemblée nationale, rapport pour avis n° 3337, tome V Énergie (28 oct. 2026, consulté le 31 oct.)",
+         "u": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-eco/l17b3337-tv_rapport-avis.pdf"
+        },
+        {
+         "t": "Advenir, page d'accueil (consultée le 31 oct. 2026)",
+         "u": "https://advenir.mobi/"
+        },
+        {
+         "t": "Légifrance, JO du 3 nov. 2026",
+         "u": "https://www.legifrance.gouv.fr/jorf/jo/2026/11/03/0257"
+        },
+        {
+         "t": "Advenir (2 nov. 2026)",
+         "u": "https://advenir.mobi/2026/11/02/evolution-des-consignes-concernant-la-justification-de-publication-des-donnees-sur-data-gouv-2/"
+        },
+        {
+         "t": "Légifrance, JO du 1er nov. 2026",
+         "u": "https://www.legifrance.gouv.fr/jorf/jo/2026/11/01/0256"
+        },
+        {
+         "t": "Légifrance, JO du 31 oct. 2026",
+         "u": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/31/0255"
+        },
+        {
+         "t": "Consultations publiques du ministère (15 sept. 2026)",
+         "u": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-portant-modification-du-programme-a3420.html"
+        },
+        {
+         "t": "Projet d'arrêté (PDF)",
+         "u": "https://www.consultations-publiques.developpement-durable.gouv.fr/IMG/pdf/arrete_prolongation_programme_cee_advenir_2030_vsd5_clean.pdf"
+        },
+        {
+         "t": "Légifrance, JO du 16 oct. 2026",
+         "u": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/16/0242"
+        },
+        {
+         "t": "Légifrance, JO du 17 oct. 2026",
+         "u": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/17/0243"
+        },
+        {
+         "t": "Légifrance, JO du 18 oct. 2026",
+         "u": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/18/0244"
+        },
+        {
+         "t": "JO du 20 oct.",
+         "u": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/20/0245"
+        },
+        {
+         "t": "JO du 21 oct.",
+         "u": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/21/0246"
+        },
+        {
+         "t": "JO du 22 oct.",
+         "u": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/22/0247"
+        },
+        {
+         "t": "JO du 23 oct. 2026",
+         "u": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/23/0248"
+        },
+        {
+         "t": "JO du 24 oct. 2026",
+         "u": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/24/0249"
+        },
+        {
+         "t": "JO du 25 oct. 2026",
+         "u": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/25/0250"
+        },
+        {
+         "t": "JO du 27 oct. 2026",
+         "u": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/27/0251"
+        },
+        {
+         "t": "JO du 28 oct. 2026",
+         "u": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/28/0252"
+        },
+        {
+         "t": "JO du 29 oct. 2026",
+         "u": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/29/0253"
+        },
+        {
+         "t": "JO du 30 oct. 2026",
+         "u": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/30/0254"
+        },
+        {
+         "t": "Automobile Propre, interview Avere-France (20 oct. 2026)",
+         "u": "https://www.automobile-propre.com/articles/ce-nest-pas-le-moment-de-freiner-lelectrique-lavere-france-demande-de-la-stabilite-aux-candidats-a-la-presidentielle-2027"
+        }
+       ]
+      },
+      {
+       "tag": "Jusqu'à fin 2027",
+       "tagType": "on",
+       "titre": "Recharge et avantage en nature",
+       "open": false,
+       "paras": [
+        {
+         "t": "La mise à disposition d'une borne par l'employeur ne constitue pas un avantage en nature jusqu'au 31 décembre 2027, que la borne soit au domicile du salarié ou sur le parking de l'entreprise. L'abattement sur l'avantage en nature des véhicules électriques éco-scorés court jusqu'à la même date.",
+         "w": false
+        },
+        {
+         "t": "Annonce (ajouté le 2 nov.) : le dossier de presse du plan d'électrification (15 octobre) prévoit une « mise à jour de l'arrêté sur les avantages en nature concernant les bornes de recharge, simplification des cas types possibles et abandon de l'obligation de démontage en fin de contrat avant fin 2026 ». Aucun arrêté modificatif trouvé à ce jour : les règles actuelles s'appliquent jusqu'à publication.",
+         "w": true
+        }
+       ],
+       "sources": [
+        {
+         "t": "Dossier de presse du ministère de l'Économie (15 oct. 2026, relu le 2 nov.)",
+         "u": "https://presse.economie.gouv.fr/download/?id=185587&n=1123%20-%20DP%20-%20%C3%89lectrifions%20la%20France%20!%20-%20Pr%C3%A9sentation%20de%20la%20deuxi%C3%A8me%20phase%20du%20plan%20d%C3%A9lectrification-pdf"
+        },
+        {
+         "t": "Electra",
+         "u": "https://www.go-electra.com/en/newsroom/benefit-in-kind-electric-car/"
+        },
+        {
+         "t": "Car Optimiz",
+         "u": "https://www.car-optimiz.fr/blog-fiscalite-vehicule-electrique-2027/"
+        }
+       ]
+      },
+      {
+       "tag": "Vote reporté au 3 nov.",
+       "tagType": "new",
+       "titre": "Projet de loi de finances 2027",
+       "open": true,
+       "paras": [
+        {
+         "t": "Point au 3 novembre (7 h 30) : l'ordre du jour fixé par la conférence des présidents du 27 octobre inscrit toujours le vote solennel sur la première partie ce mardi 3 novembre à 15 h, suivi de la seconde partie (Culture, Médias) ; vote sur l'ensemble inscrit le 17 novembre. L'Assemblée a siégé le lundi 2 novembre (deux séances). Selon PolitiqueMatin (2 novembre), il restait environ 1 450 amendements avant ces séances. Les Échos (3 novembre, article payant non lu) écrivent que le vote « devrait être une nouvelle fois décalé » : non confirmé par le site de l'Assemblée à cette heure. Selon Challenges (2 novembre), le rapporteur général Philippe Juvin a prédit un vote « probablement négatif ». Les comptes rendus du 2 novembre n'ont pas été relus : on ne sait pas si les articles 24 et 25 (recharge des camions, fiscalité des véhicules) ont été atteints. Aucun vote trouvé sur la recharge, la TVA des bornes ou le crédit d'impôt borne.",
+         "w": false
+        },
+        {
+         "t": "Point au 2 novembre : dernier jour prévu pour l'examen des recettes ; vote solennel toujours inscrit le mardi 3 novembre après-midi. Le compte rendu de la deuxième séance du vendredi 30 octobre montre que les députés en étaient aux amendements après l'article 7 puis à l'article 14 : les articles 24 et 25 (recharge des camions, fiscalité des véhicules) n'étaient donc pas encore atteints à cette date. La page de l'Assemblée ne liste aucune séance après le 30 octobre. Aucun vote trouvé sur la recharge, la TVA des bornes ou le crédit d'impôt borne. Si la première partie est rejetée le 3 novembre, la seconde partie (dont l'amendement II-CE48) ne sera pas examinée par l'Assemblée et le texte initial partira au Sénat, selon Infonet (21 octobre).",
+         "w": false
+        },
+        {
+         "t": "Point au 1er novembre : la page de l'Assemblée sur l'examen de la première partie liste toujours les séances jusqu'au vendredi 30 octobre (matin et après-midi) ; le calendrier affiché reste inchangé (recettes jusqu'au lundi 2 novembre, vote solennel le mardi 3 novembre après-midi). Selon l'association AMORCE (22 octobre), la seconde partie (dépenses) serait examinée en séance du 3 au 16 novembre. Aucun vote trouvé sur la recharge, la TVA des bornes, le crédit d'impôt borne ou les articles 24 et 25 ; les comptes rendus du 30 octobre n'ont pas été relus.",
+         "w": false
+        },
+        {
+         "t": "Point au 31 octobre : la page de l'Assemblée sur l'examen de la première partie liste désormais aussi les deux séances du vendredi 30 octobre (matin et après-midi) ; le calendrier affiché reste inchangé (recettes jusqu'au lundi 2 novembre, vote solennel le mardi 3 novembre après-midi). Aucun article ni compte rendu trouvé sur un vote des 29 ou 30 octobre concernant la recharge, la TVA des bornes, le crédit d'impôt borne ou les articles 24 et 25 ; les comptes rendus de ces séances n'ont pas été relus. Par ailleurs, en commission des affaires économiques (seconde partie, crédits « Énergie »), le rapport pour avis n° 3337 affirme qu'Advenir a été prolongé en juillet 2026 : non confirmé, voir la rubrique Advenir.",
+         "w": false
+        },
+        {
+         "t": "Point au 30 octobre : la page de l'Assemblée consacrée à l'examen de la première partie liste les séances jusqu'au mercredi 28 octobre après-midi ; le calendrier affiché reste inchangé (recettes jusqu'au lundi 2 novembre, vote solennel le mardi 3 novembre après-midi). Aucun article ni compte rendu trouvé sur un vote du 28 ou du 29 octobre concernant la recharge, la TVA des bornes, le crédit d'impôt borne ou les articles 24 et 25. Attention : un article du Journal de l'Automobile intitulé « Les députés ne veulent plus du crédit d'impôt pour les bornes de recharge » circule encore dans les résultats de recherche ; il date du 30 octobre 2025 et porte sur le budget 2026, pas sur 2027.",
+         "w": false
+        },
+        {
+         "t": "Point au 29 octobre : selon le site de l'Assemblée, la suite de l'examen de la première partie a repris le mercredi 28 octobre à 16 h ; le calendrier reste inchangé (recettes jusqu'au lundi 2 novembre, vote solennel le mardi 3 novembre après-midi). Aucun article ni compte rendu trouvé sur un vote des 27 ou 28 octobre concernant la recharge, la TVA des bornes, le crédit d'impôt borne ou les articles 24 et 25 ; les comptes rendus de ces séances n'ont pas été relus.",
+         "w": false
+        },
+        {
+         "t": "Point au 28 octobre : le site de l'Assemblée confirme la reprise de l'examen des recettes le mardi 27 octobre, jusqu'au lundi 2 novembre, et le vote solennel le mardi 3 novembre après-midi. Aucun compte rendu ni article trouvé sur un vote du 27 octobre concernant la recharge, la TVA des bornes, le crédit d'impôt borne ou les articles 24 et 25 ; les comptes rendus de séance du 27 n'ont pas été relus.",
+         "w": false
+        },
+        {
+         "t": "Point au 27 octobre : selon le site de l'Assemblée, l'examen de la première partie (recettes) reprend en séance ce mardi 27 octobre à 15 h et court jusqu'au lundi 2 novembre ; vote solennel toujours inscrit le mardi 3 novembre après-midi. Le site de l'Assemblée indique aussi que le projet de budget de la Sécurité sociale a été rejeté en première lecture le 23 octobre. Aucun vote nouveau sur la recharge, la TVA des bornes ou le crédit d'impôt borne à cette date.",
+         "w": false
+        },
+        {
+         "t": "Point au 24 octobre : pas de séance sur les recettes du budget de l'État avant le 27 octobre. Repéré sur le site de l'Assemblée : l'amendement n° II-CE48, déposé le 9 octobre par des députés du groupe socialiste devant la commission des affaires économiques, sur la seconde partie (après l'article 75, mission « Écologie, développement et mobilité durables »). Il réécrirait l'article 200 quater C du CGI : crédit d'impôt de 500 € par système de charge pilotable (heures creuses, modulation de puissance, caractéristiques fixées par arrêté), pour les dépenses payées du 1er janvier 2027 au 31 décembre 2031, dans le logement principal ou secondaire, une borne par logement, sur facture de l'entreprise qui a posé la borne.",
+         "w": false
+        },
+        {
+         "t": "Simple dépôt : le document porte la mention « sous réserve de son traitement par les services de l'Assemblée nationale et de sa recevabilité », et son sort (adopté, rejeté, retiré) n'a pas été trouvé. La seconde partie du budget n'est pas encore examinée en séance. Le coût de 100 à 150 M€ par an et le prix de 1 200 à 1 600 € d'une borne viennent de l'exposé des auteurs, pas d'une évaluation officielle. À ne pas confondre avec les 500 € annoncés par le gouvernement via les CEE (voir plus haut).",
+         "w": true
+        },
+        {
+         "t": "Point au 23 octobre : le vote solennel sur la première partie (recettes), prévu le 20 octobre, n'a pas eu lieu. Selon LCP et Le Monde (19 octobre), il restait 2 828 amendements sur 3 396 à examiner. L'Assemblée examine d'abord le budget de la Sécurité sociale ; selon le site de l'Assemblée, l'examen des recettes du budget de l'État reprend du mardi 27 octobre au lundi 2 novembre et le vote solennel est inscrit le mardi 3 novembre après-midi. Le 19 octobre au soir, les députés ont examiné par priorité les articles 37 à 41 (collectivités locales) et supprimé l'article 37. Aucun vote sur les articles 24 et 25 (recharge des camions, fiscalité des véhicules), sur la TVA des bornes ou sur le crédit d'impôt borne n'a été trouvé ; la première séance du 19 octobre n'a pas été relue. Le délai de 40 jours de l'Assemblée court jusqu'au 17 novembre ; LCP rappelle que 49.3, loi spéciale ou ordonnances restent possibles.",
+         "w": false
+        },
+        {
+         "t": "Point au 19 octobre (matin) : la liste des scrutins publics de l'Assemblée s'arrête toujours à la troisième séance du vendredi 16 octobre (scrutin n° 8877, amendement après l'article 5, rejeté). Aucun compte rendu ni article de presse sur un vote du week-end n'a été trouvé. LégiFiscal confirme que la discussion des recettes doit aboutir au vote solennel du mardi 20 octobre. Les articles 24 et 25 (recharge des camions, fiscalité des véhicules) ne sont donc toujours pas atteints, et aucun vote sur le crédit d'impôt borne ou la TVA des bornes n'a été trouvé.",
+         "w": false
+        },
+        {
+         "t": "Point au 18 octobre : lors de la troisième séance du vendredi 16 octobre, l'Assemblée a adopté l'article 5 (régime de l'apport-cession) par 25 voix contre 23, peu avant minuit, selon les scrutins publics de l'Assemblée et l'AFP reprise par Nice-Matin. À la fin de cette séance, il restait plus de 2 800 amendements à examiner sur la première partie, dont le vote solennel est prévu le mardi 20 octobre. Aucun scrutin public postérieur au 16 octobre n'apparaît sur le site de l'Assemblée au 18 octobre. Les articles 24 et 25 (recharge des camions, fiscalité des véhicules) ne sont toujours pas atteints.",
+         "w": false
+        },
+        {
+         "t": "Vote provisoire du 15 octobre, repéré le 18 : les députés ont adopté des amendements (n° I-2847 et I-3181) qui prolongent en 2027 le plafond d'exonération de 1 000 € de la prime carburant versée par l'employeur, alors qu'il devait redescendre à 600 €. Selon LégiFiscal et Selectra, le plafond de 600 € qui couvre la prise en charge des frais de recharge électrique et le forfait mobilités durables reste inchangé. Selectra donne le score de l'amendement : 46 voix pour, 2 contre, 35 abstentions. Rien n'est définitif : vote de la première partie, Sénat, et éventuel recours au 49.3.",
+         "w": false
+        },
+        {
+         "t": "Ce vote du 15 octobre n'a pas été relu sur la fiche de l'amendement du site de l'Assemblée : il est rapporté d'après LégiFiscal, Selectra, le Journal du Net et APR Patrimoine, concordants. Les sources ne donnent pas la même référence pour le plafond carburant 2026 en vigueur (300 € selon Selectra, 1 000 € pour 2026 selon Tissot et LégiFiscal) : seul le plafond recharge à 600 € est cité de façon concordante.",
+         "w": true
+        },
+        {
+         "t": "Point au 17 octobre : le vendredi 16 octobre, l'Assemblée a terminé l'article 4 puis examiné les amendements portant article additionnel après l'article 4 ; elle a rejeté les amendements de la gauche sur un impôt minimum des grandes fortunes (taxe Zucman) et le rétablissement de l'ISF, selon TF1 Info et le compte rendu de séance. Les articles 24 et 25 (recharge des camions, fiscalité des véhicules) ne sont toujours pas atteints, et aucun vote sur le crédit d'impôt borne ou la TVA des bornes n'a été trouvé. Le compte rendu de la troisième séance du 16 octobre n'a pas pu être consulté (site indisponible).",
+         "w": false
+        },
+        {
+         "t": "Point au 16 octobre : le jeudi 15 octobre, l'Assemblée a adopté l'article 2 (96 voix pour, 0 contre) puis supprimé l'article 3, qui réduisait l'abattement de 10 % sur les pensions (116 voix contre 30), selon les scrutins publics de l'Assemblée et LCP. Les députés en sont donc aux amendements qui suivent l'article 3 ; les articles 24 et 25 (recharge des camions, fiscalité des véhicules) n'ont pas encore été atteints, et aucun vote sur le crédit d'impôt borne ou la TVA des bornes n'a été trouvé. Rien n'est définitif avant la fin de la navette.",
+         "w": false
+        },
+        {
+         "t": "Point au 15 octobre : l'examen de la partie recettes continue dans l'hémicycle. Le mercredi 14 octobre au soir, les députés ont adopté l'article sur la contribution de la France au budget de l'Union européenne, selon Le Monde. Aucun vote sur les articles 24 et 25 (recharge des camions, fiscalité des véhicules) ni sur un amendement crédit d'impôt borne ou TVA des bornes n'a été trouvé à cette date. Le dossier de l'Assemblée affiche toujours 3 840 amendements déposés en séance sur la première partie.",
+         "w": false
+        },
+        {
+         "t": "Le gouvernement a déposé le projet de budget 2027 à l'Assemblée nationale le 1er octobre 2026 (texte n° 3210). La commission des finances a examiné la première partie, celle des recettes, du 7 au 9 octobre : plus de 1 800 amendements y ont été déposés. Elle l'a rejetée le 9 octobre par 31 voix contre, 3 pour et 2 abstentions, selon Le Figaro et LCP.",
+         "w": false
+        },
+        {
+         "t": "Point au 14 octobre : la séance publique s'est ouverte le mardi 13 octobre au soir. La motion de rejet préalable des députés socialistes a été repoussée par 236 voix contre 149, le RN ayant voté contre, selon LCP. Le texte ne part donc pas directement au Sénat : l'Assemblée examine la première partie, sur la base du texte du gouvernement et non de celui de la commission (article 42 de la Constitution). Selon LCP, la discussion des recettes est prévue jusqu'au lundi 19 octobre ; l'ordre du jour modifié le 9 octobre prévoyait le vote solennel sur la première partie le 20 octobre et le vote sur l'ensemble le 17 novembre (non revérifié le 14 octobre). Le dossier de l'Assemblée affiche plus de 3 800 amendements déposés sur la première partie pour la séance, un chiffre qui peut encore évoluer. Rien n'est donc voté, et le texte doit ensuite aller au Sénat.",
+         "w": false
+        },
+        {
+         "t": "Fiscalité des véhicules (article 25) : la TVA d'une voiture mise à disposition d'un salarié pour un loyer inférieur au marché serait calculée sur la valeur normale de la location, et les micro-hybrides perdraient l'abattement de malus au poids au 1er janvier 2027. Le projet ajouterait aussi au score environnemental un critère de résilience qui favoriserait les batteries produites en Europe, avec des critères à fixer par voie réglementaire.",
+         "w": false
+        },
+        {
+         "t": "Poids lourds : l'article 24 prévoit une accise réduite à 0,50 €/MWh sur l'électricité de recharge des camions de plus de 7,5 t affectés au transport de marchandises, contre 20,42 €/MWh au tarif normal. Ce tarif doit d'abord être autorisé au niveau européen et s'appliquerait au plus tard six mois après cet accord, donc pas automatiquement au 1er janvier 2027. L'article 25 ferait porter le suramortissement des véhicules neufs acquis de 2027 à 2030 sur le seul surcoût par rapport à un véhicule équivalent, et non plus sur le prix total.",
+         "w": false
+        },
+        {
+         "t": "Recharge publique : l'article 24 remplacerait aussi la TIRUERT par un mécanisme fondé sur la réduction des émissions des carburants sur leur cycle de vie, au plus tard le 1er janvier 2028. Automobile Propre y voit une source de revenus possible pour les opérateurs de bornes, sans chiffrage à ce stade.",
+         "w": false
+        },
+        {
+         "t": "Le projet ne rétablit pas le crédit d'impôt borne et ne touche ni à la TVA à 5,5 % ni à Advenir, selon l'analyse d'Automobile Propre du 5 octobre. L'UFE réclame toujours ce crédit d'impôt pour les bornes pilotables et propose de réserver la TVA à 5,5 % aux seules bornes pilotables : à suivre dans les amendements. Les sources divergent sur le sort du gaz et des biocarburants dans le suramortissement, et le texte intégral des articles 24 et 25 n'a toujours pas pu être relu à la source au 11 octobre. Seuls leurs intitulés ont été vérifiés dans le sommaire du projet : « Soutien à l'électrification et renforcement des incitations environnementales dans le secteur des transports » (article 24) et « Mesures relatives à la fiscalité des véhicules » (article 25).",
+         "w": true
+        },
+        {
+         "t": "Amendements : au 11 octobre, il n'a toujours pas été possible de vérifier si la commission en avait adopté sur le crédit d'impôt borne ou la TVA à 5,5 % avant de rejeter l'ensemble : la recherche d'amendements du site de l'Assemblée n'a pas répondu. Comme la séance repart du texte du gouvernement, les votes de la commission devront de toute façon être refaits. Parmi ceux déposés, ni votés ni adoptés selon le Journal du Poids Lourd, le RN propose de transformer les certificats d'économies d'énergie (CEE) en contribution versée au Trésor public, ce qui remettrait en cause le financement actuel des aides aux poids lourds électriques. Advenir est aussi un programme CEE : l'article ne dit pas quel serait l'effet sur lui.",
+         "w": true
+        }
+       ],
+       "sources": [
+        {
+         "t": "Assemblée nationale, ordre du jour (conférence des présidents du 27 oct. 2026, consulté le 3 nov.)",
+         "u": "https://www.assemblee-nationale.fr/dyn/static/seance/conference.pdf"
+        },
+        {
+         "t": "PolitiqueMatin (2 nov. 2026)",
+         "u": "https://www.politiquematin.fr/budget-2027-1450-amendements-vote-3-novembre-calendrier"
+        },
+        {
+         "t": "Les Échos (3 nov. 2026, payant, non lu)",
+         "u": "https://www.lesechos.fr/economie-france/budget-fiscalite/budget-la-botte-secrete-qui-permettrait-au-gouvernement-dajuster-sa-copie-2260624"
+        },
+        {
+         "t": "Challenges (2 nov. 2026)",
+         "u": "https://www.challenges.fr/politique/nous-savons-tous-que-les-amendements-deposes-niront-pas-au-bout-le-grand-desarroi-des-deputes-entre-attente-du-493-ou-des-ordonnances_646742"
+        },
+        {
+         "t": "Assemblée nationale, 2e séance du 30 oct. 2026 (consulté le 2 nov.)",
+         "u": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-vendredi-30-octobre-2026"
+        },
+        {
+         "t": "Infonet (21 oct. 2026)",
+         "u": "https://infonet.fr/actualite/juridique/vote-budget-2027-novembre"
+        },
+        {
+         "t": "Assemblée nationale, examen de la première partie (consulté le 31 oct., le 1er et le 2 nov. 2026)",
+         "u": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027"
+        },
+        {
+         "t": "AMORCE (22 oct. 2026)",
+         "u": "https://amorce.asso.fr/actualite/plf-2027-point-d-etape-sur-l-examen-du-budget-a-l-assemblee-nationale"
+        },
+        {
+         "t": "Assemblée nationale, rapport pour avis n° 3337, tome V (28 oct. 2026)",
+         "u": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-eco/l17b3337-tv_rapport-avis.pdf"
+        },
+        {
+         "t": "Assemblée nationale, examen de la première partie (consulté le 30 oct. 2026)",
+         "u": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-du-projet-de-loi-de-finances-pour-2027"
+        },
+        {
+         "t": "Journal de l'Automobile (30 oct. 2025, budget 2026)",
+         "u": "https://journalauto.com/journal-des-flottes/les-deputes-ne-veulent-plus-du-credit-dimpot-pour-les-bornes-de-recharge/"
+        },
+        {
+         "t": "Assemblée nationale, page d'accueil (consultée le 29 oct. 2026)",
+         "u": "https://www.assemblee-nationale.fr/"
+        },
+        {
+         "t": "Assemblée nationale, calendrier de la première partie (page du 27 oct. 2026, consultée le 28 et le 29 oct.)",
+         "u": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027"
+        },
+        {
+         "t": "Assemblée nationale, séance publique (consulté le 27 oct. 2026)",
+         "u": "https://www.assemblee-nationale.fr/dyn/seance-publique"
+        },
+        {
+         "t": "Assemblée nationale, amendement n° II-CE48 (9 oct. 2026, consulté le 24 oct.)",
+         "u": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210C/CION-ECO/CE48.pdf"
+        },
+        {
+         "t": "Gestion de Fortune (20 oct. 2026)",
+         "u": "https://www.gestiondefortune.com/fiscalite-droit/13424-plf-2027-lexamen-de-la-partie-recettes-mis-sur-pause.html"
+        },
+        {
+         "t": "Assemblée nationale, calendrier de la première partie (consulté le 23 oct. 2026)",
+         "u": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027"
+        },
+        {
+         "t": "Assemblée nationale, ordre du jour (conférence des présidents du 20 oct. 2026)",
+         "u": "https://www.assemblee-nationale.fr/dyn/static/seance/conference.pdf"
+        },
+        {
+         "t": "Assemblée nationale, 2e séance du 19 oct. 2026",
+         "u": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N031"
+        },
+        {
+         "t": "LCP (19 oct. 2026)",
+         "u": "https://lcp.fr/actualites/budget-2027-le-marathon-de-la-partie-recettes-loin-d-etre-termine-le-vote-prevu-demain-a"
+        },
+        {
+         "t": "Le Monde (19 oct. 2026)",
+         "u": "https://www.lemonde.fr/politique/article/2026/10/19/budget-2027-le-vote-solennel-sur-la-premiere-partie-du-plf-repousse_6797526_823448.html"
+        },
+        {
+         "t": "Assemblée nationale, scrutins n° 8874 à 8877 du 16 oct. 2026 (consulté le 19 oct.)",
+         "u": "https://www.assemblee-nationale.fr/dyn/17/scrutins"
+        },
+        {
+         "t": "Nice-Matin / AFP (17 oct. 2026)",
+         "u": "https://www.nicematin.com/economie/budget-2027-les-deputes-votent-de-justesse-une-mesure-contre-l-optimisation-fiscale-des-plus-fortunes-10742043"
+        },
+        {
+         "t": "LégiFiscal, amendements adoptés (16 oct. 2026)",
+         "u": "https://www.legifiscal.fr/actualites-fiscales/4689-plf-2027-premiers-amendements-adoptes-seance-assemblee-nationale.html"
+        },
+        {
+         "t": "Selectra, prime carburant (17 oct. 2026)",
+         "u": "https://selectra.info/finance/actualites/marche/prime-carburant-1000-euros-sans-impot-deputes"
+        },
+        {
+         "t": "Journal du Net (15 oct. 2026)",
+         "u": "https://www.journaldunet.com/business/action-publique/1556715-les-deputes-adoptent-plusieurs-amendements-majeurs-sur-la-fiscalite-dans-le-budget-2027/"
+        },
+        {
+         "t": "APR Patrimoine (16 oct. 2026)",
+         "u": "https://www.apr-patrimoine.fr/ressources/plf-2027-amendements-adoptes-assemblee/"
+        },
+        {
+         "t": "TF1 Info (16 oct. 2026)",
+         "u": "https://www.tf1info.fr/politique/budget-2027-les-deputes-rejettent-la-taxe-zucman-voulue-par-la-gauche-2470444.html"
+        },
+        {
+         "t": "Assemblée nationale, 2e séance du 16 oct. 2026 (version provisoire)",
+         "u": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-vendredi-16-octobre-2026"
+        },
+        {
+         "t": "Assemblée nationale, scrutins du 15 oct. 2026",
+         "u": "https://www.assemblee-nationale.fr/dyn/17/scrutins/(legislature)/VTANR5L17V8090"
+        },
+        {
+         "t": "LCP, abattement des retraités (15 oct. 2026)",
+         "u": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-la-reduction-de-l-abattement-fiscal-de-10-sur-les"
+        },
+        {
+         "t": "Le Monde, contribution à l'UE (14 oct. 2026)",
+         "u": "https://www.lemonde.fr/politique/article/2026/10/15/l-assemblee-nationale-valide-la-contribution-francaise-au-budget-europeen-malgre-l-opposition-de-lfi-et-du-rn_6793864_823448.html"
+        },
+        {
+         "t": "Assemblée nationale (texte n° 3210)",
+         "u": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3210_projet-loi.pdf"
+        },
+        {
+         "t": "Assemblée nationale (dossier consulté le 15 oct. 2026)",
+         "u": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2027"
+        },
+        {
+         "t": "Assemblée nationale (ordre du jour du 6 oct., modifié le 9 oct. 2026)",
+         "u": "https://www.assemblee-nationale.fr/dyn/static/seance/conference.pdf"
+        },
+        {
+         "t": "LCP, motion de rejet (14 oct. 2026)",
+         "u": "https://lcp.fr/actualites/la-motion-de-rejet-des-socialistes-n-ayant-pas-ete-adoptee-l-examen-du-budget-pour-2027"
+        },
+        {
+         "t": "France 24 (14 oct. 2026)",
+         "u": "https://www.france24.com/fr/france/20261013-budget-2027-debat-ouvert-assemblee-nationale-deficit-dette-retraites"
+        },
+        {
+         "t": "Le Figaro (9 oct. 2026)",
+         "u": "https://www.lefigaro.fr/conjoncture/budget-2027-la-commission-des-finances-rejette-largement-la-partie-recettes-20261009"
+        },
+        {
+         "t": "LCP (9 oct. 2026)",
+         "u": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de"
+        },
+        {
+         "t": "NosParlementaires (9 oct. 2026)",
+         "u": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines"
+        },
+        {
+         "t": "Le Monde (9 oct. 2026)",
+         "u": "https://www.lemonde.fr/politique/article/2026/10/09/budget-2027-les-deputes-rejettent-la-partie-recettes-en-commission_6790637_823448.html"
+        },
+        {
+         "t": "Le Monde, motion de rejet (9 oct. 2026)",
+         "u": "https://www.lemonde.fr/politique/article/2026/10/09/budget-2027-les-deputes-socialistes-font-planer-la-menace-d-une-motion-de-rejet-prealable_6790522_823448.html"
+        },
+        {
+         "t": "Constitution, art. 42",
+         "u": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+        },
+        {
+         "t": "Journal du Poids Lourd (6 oct. 2026)",
+         "u": "https://journaldupoidslourd.com/transport/taxe-poids-lourds-carburants-cee-les-amendements-du-plf-2027-qui-font-debat/"
+        },
+        {
+         "t": "Ministère (Advenir, programme CEE)",
+         "u": "https://www.ecologie.gouv.fr/politiques-publiques/developper-bornes-recharge-vehicules-electriques"
+        },
+        {
+         "t": "Automobile Propre (5 oct. 2026)",
+         "u": "https://www.automobile-propre.com/articles/budget-plf-2027-voiture-electrique-eco-score-aides-recharge/"
+        },
+        {
+         "t": "Auto Infos (2 oct. 2026)",
+         "u": "https://www.auto-infos.fr/article/plf-2027-le-gouvernement-projette-d-accelere-le-virage-electrique-du-transport-routier.293795"
+        },
+        {
+         "t": "LégiFiscal (2 oct. 2026)",
+         "u": "https://www.legifiscal.fr/infos-conseils/plf-2027-tableau-synthese-principales-mesures-article-article.html"
+        },
+        {
+         "t": "Journal Auto",
+         "u": "https://journalauto.com/journal-des-flottes/plf-2027-recuperation-de-tva-ecoscore-mild-hybrid-le-gouvernement-nepargne-pas-les-flottes/"
+        },
+        {
+         "t": "Journal du Poids Lourd",
+         "u": "https://journaldupoidslourd.com/transport/plf-2027-tout-pour-le-camion-electrique-au-detriment-des-biocarburants/"
+        },
+        {
+         "t": "UFE",
+         "u": "https://ufe-electricite.fr/projet-de-loi-finances-2027-les-propositions-de-lufe/"
+        },
+        {
+         "t": "France 24",
+         "u": "https://www.france24.com/fr/france/20261001-budget-2027-le-gouvernement-d%C3%A9voile-son-projet-sous-la-pression-des-march%C3%A9s"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aides",
+   "titre": "Aides IRVE en 2026",
+   "intro": "Qui peut toucher quoi, vérifié sur plusieurs sources au 12 octobre 2026, revérifié le 3 novembre 2026 (Journal officiel jusqu'au 3 novembre, pas de JO le 26 octobre ni le 2 novembre, débats budgétaires, consultations publiques) : aucun changement sur les montants ni les dispositifs en vigueur. Nouveau le 3 novembre : une consigne Advenir sur le justificatif de publication des données (voir « Contrôles sur site »). Nouveau : une aide de 500 € pour une borne pilotable a été annoncée pour 2027 (voir « Autres »).",
+   "qui": [
+    {
+     "t": "Maison individuelle",
+     "d": "TVA à 5,5 %. Plus de crédit d'impôt. Éventuelles aides locales. Annoncé pour le 1er janvier 2027, pas encore en vigueur : 500 € pour une borne pilotable, via les CEE."
+    },
+    {
+     "t": "Copropriété",
+     "d": "Prime Advenir (jusqu'à 1 000 € par borne individuelle, 12 500 € pour l'infrastructure collective) et TVA à 5,5 % pour le particulier."
+    },
+    {
+     "t": "Entreprise",
+     "d": "Plus de prime Advenir pour les voitures, sauf poids lourds et autocars. TVA à 20 %. Borne fournie au salarié exonérée d'avantage en nature jusqu'à fin 2027."
+    }
+   ],
+   "groupes": [
+    {
+     "titre": "Advenir",
+     "items": [
+      {
+       "tag": "Revalorisé 1er avril 2026",
+       "tagType": "new",
+       "titre": "Advenir en résidentiel collectif",
+       "open": true,
+       "paras": [
+        {
+         "t": "Taux d'aide de 50 %, avec des plafonds relevés : 1 000 € HT pour un point individuel (contre 600 €), 1 660 € HT pour un point partagé, 12 500 € HT pour une infrastructure collective (contre 8 000 €). Au-delà de 100 places, chaque emplacement supplémentaire donne droit à 125 € (contre 75 €). Une surprime couvre les travaux en parking extérieur.",
+         "w": false
+        },
+        {
+         "t": "Date de référence : le vote en assemblée générale pour les projets collectifs, la signature du dossier pour les points individuels et partagés. La prime est versée à l'installateur labellisé, qui la déduit de la facture. Le programme court aujourd'hui jusqu'au 31 décembre 2027 ; un projet d'arrêté, pas encore publié, le prolongerait jusqu'au 31 décembre 2030 (voir ci-dessous).",
+         "w": false
+        }
+       ],
+       "sources": [
+        {
+         "t": "Advenir",
+         "u": "https://advenir.mobi/2026/03/23/evolution-des-baremes-des-primes-pour-la-recharge-dans-le-residentiel-collectif-afin-de-mieux-repondre-aux-besoins-des-parkings-exterieurs/"
+        },
+        {
+         "t": "Roole",
+         "u": "https://media.roole.fr/transition/voiture-propre/bornes-de-recharge-en-copropriete-les-aides-advenir-augmentent-jusqua-12-500"
+        },
+        {
+         "t": "AE-T",
+         "u": "https://www.aet-energy.fr/2026/05/28/programme-advenir-les-nouvelles-primes-en-copropriete/"
+        },
+        {
+         "t": "ISIOHM",
+         "u": "https://isiohm.fr/aides/advenir/"
+        }
+       ]
+      },
+      {
+       "tag": "Réduit",
+       "tagType": "end",
+       "titre": "Advenir pour les entreprises",
+       "open": false,
+       "paras": [
+        {
+         "t": "Les flottes d'entreprise sur parking privé ne sont plus financées depuis le 1er janvier 2026, ni les professionnels des services de l'automobile. Seuls restent les points de recharge pour poids lourds et autocars (N2/N3, M2/M3), à 50 %, avec un plafond de 2 200 à 960 000 € HT selon la puissance et le nombre de points.",
+         "w": false
+        }
+       ],
+       "sources": [
+        {
+         "t": "ISIOHM",
+         "u": "https://isiohm.fr/aides/advenir/"
+        },
+        {
+         "t": "MaBorneAuto",
+         "u": "https://maborneauto.com/pro/borne-recharge-concession-automobile/"
+        }
+       ]
+      },
+      {
+       "tag": "Projet d'arrêté",
+       "tagType": "late",
+       "titre": "Advenir prolongé jusqu'en 2030 ?",
+       "open": true,
+       "paras": [
+        {
+         "t": "Le ministère a soumis à consultation publique, du 15 septembre au 6 octobre 2026, un projet d'arrêté (NOR ECOR2622880A) qui remplacerait la date du 31 décembre 2027 par le 31 décembre 2030 dans l'arrêté du 24 novembre 2023 sur le programme Advenir. Une seconde enveloppe, plafonnée à 400 millions d'euros de versements, serait mobilisée une fois consommés les 28,571 TWh cumac du programme initial. Objectif affiché : plus de 137 500 nouveaux points de recharge sur 2023-2030, dont 65 500 de plus avec cet abondement et 17 500 pour les poids lourds au dépôt et en itinérance.",
+         "w": false
+        },
+        {
+         "t": "Orientations annoncées : soutien renforcé en résidentiel collectif (bailleurs sociaux compris) et pour les poids lourds, primes dégressives sur 3 ans pour les bornes de voirie destinées aux véhicules particuliers, sous-enveloppe de moins de 10 millions d'euros pour la recharge des navires de pêche électriques.",
+         "w": false
+        },
+        {
+         "t": "Ce n'est qu'un projet : la consultation est close, mais aucune publication au Journal officiel n'a été trouvée lors de la vérification du 3 novembre 2026 (sommaires consultés des JO du 14 octobre au 3 novembre ; pas de JO les 19 et 26 octobre ni le 2 novembre) ; sur le site Advenir, rien sur la prolongation (seule publication récente, le 2 novembre : le justificatif de publication des données), et la page d'accueil indique toujours « 2027 fin du programme ». Le dossier de presse du plan d'électrification (15 octobre) annonce un « grand plan bornes électriques à hauteur de 400 M€, via le programme CEE Advenir » : c'est une annonce, pas l'arrêté. Un rapport pour avis de l'Assemblée (n° 3337, tome V, 28 octobre) écrit pourtant qu'Advenir « a été prolongé en juillet 2026 avec 400 M€ », sans citer de texte : affirmation non confirmée. L'arrêté CEE du 17 septembre 2026 paru au JO du 8 octobre concerne le programme ACTEE+, pas Advenir. Les nouveaux barèmes ne sont pas connus. Le texte entrerait en vigueur le lendemain de sa publication.",
+         "w": true
+        }
+       ],
+       "sources": [
+        {
+         "t": "Consultations publiques du ministère (15 sept. 2026, consulté le 12 oct. 2026)",
+         "u": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-portant-modification-du-programme-a3420.html"
+        },
+        {
+         "t": "Projet d'arrêté (PDF)",
+         "u": "https://www.consultations-publiques.developpement-durable.gouv.fr/IMG/pdf/arrete_prolongation_programme_cee_advenir_2030_vsd5_clean.pdf"
+        },
+        {
+         "t": "Vie publique (15 sept. 2026)",
+         "u": "https://www.vie-publique.fr/consultations/304562-arrete-modification-du-programme-advenir-dispositif-cee"
+        },
+        {
+         "t": "Assemblée nationale, rapport pour avis n° 3337, tome V (28 oct. 2026)",
+         "u": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-eco/l17b3337-tv_rapport-avis.pdf"
+        },
+        {
+         "t": "Dossier de presse du ministère de l'Économie (15 oct. 2026, relu le 2 nov.)",
+         "u": "https://presse.economie.gouv.fr/download/?id=185587&n=1123%20-%20DP%20-%20%C3%89lectrifions%20la%20France%20!%20-%20Pr%C3%A9sentation%20de%20la%20deuxi%C3%A8me%20phase%20du%20plan%20d%C3%A9lectrification-pdf"
+        }
+       ]
+      },
+      {
+       "tag": "Nouveau 1er oct.",
+       "tagType": "new",
+       "titre": "Contrôles sur site : Socotec et nouvelles règles",
+       "open": false,
+       "paras": [
+        {
+         "t": "Depuis le 1er octobre 2026, Socotec réalise les contrôles sur site. Il propose 6 dates en 3 sollicitations, avec au moins 72 heures ouvrées de préavis, et rend son rapport sous 4 jours calendaires. Les deux premières contre-visites de chaque porteur d'offre sont prises en charge, les suivantes lui sont facturées, tout comme le second contrôle déclenché par une non-conformité bloquante chez un nouveau porteur.",
+         "w": false
+        },
+        {
+         "t": "Pour les points individuels et partagés, la copropriété doit être identifiable au registre national des copropriétés (RNIC). Un bailleur social ou une monopropriété fournit des justificatifs qui le relient à l'adresse. Le formulaire permettra d'indiquer le type de résidentiel collectif à partir du 15 octobre 2026.",
+         "w": false
+        },
+        {
+         "t": "Ajouté 3 nov. Bornes ouvertes au public, justificatif de publication des données : selon une publication d'Advenir du 2 novembre 2026, le porteur doit fournir un lien URL vers le fichier consolidé des bornes de recharge sur data.gouv, filtré pour isoler les stations du projet (par exemple nom de l'opérateur, adresse de la station ou identifiant du point de charge). « Seuls les dossiers signés à partir du 15 novembre 2026 devront respecter cette nouvelle consigne. » À partir de cette date, les liens issus de la nouvelle base nationale sont aussi acceptés pour les dossiers signés avant. Aide pour créer le lien : contact@transport.data.gouv.fr. Rappel : l'ancienne base de data.gouv.fr doit fermer le 31 décembre 2026.",
+         "w": false
+        }
+       ],
+       "sources": [
+        {
+         "t": "Advenir (2 nov. 2026, consulté le 3 nov.)",
+         "u": "https://advenir.mobi/2026/11/02/evolution-des-consignes-concernant-la-justification-de-publication-des-donnees-sur-data-gouv-2/"
+        },
+        {
+         "t": "Advenir (28 sept. 2026)",
+         "u": "https://advenir.mobi/2026/09/28/le-programme-advenir-integre-un-nouveau-partenaire-pour-ses-controles-socotec/"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "titre": "Fiscalité",
+     "items": [
+      {
+       "tag": "En vigueur",
+       "tagType": "on",
+       "titre": "TVA à 5,5 % pour les particuliers",
+       "open": false,
+       "paras": [
+        {
+         "t": "Le taux de 5,5 % vise la pose, l'installation et l'entretien d'infrastructures de recharge, à trois conditions posées par l'article 278-0 bis N du CGI : elles sont installées dans des locaux à usage d'habitation et destinées aux résidents, leur configuration respecte les exigences techniques fixées par arrêté, et le prestataire remplit les critères de qualification. Le texte ne pose aucune condition d'ancienneté du logement. Hors logement, en entreprise par exemple, c'est 20 %.",
+         "w": false
+        },
+        {
+         "t": "Configurations admises (article 30-0 H de l'annexe IV du CGI, créé par l'arrêté du 22 juin 2023, version en vigueur depuis le 19 juin 2025) : une borne équipée d'un socle ou d'un connecteur de type 2 (NF EN 62196-2), ou un point de recharge équipé d'un socle de type E (NF C61-314) adapté à la recharge pour une intensité d'au moins 14 A, dit prise renforcée. La prise renforcée est donc éligible à 5,5 %. Pour les infrastructures relevant des articles L. 353-12 ou L. 353-13 du code de l'énergie, les exigences sont celles de l'arrêté du 23 décembre 2020. Le prestataire doit avoir l'habilitation et, le cas échéant, la qualification prévues à l'article D. 353-2 du code de l'énergie.",
+         "w": false
+        },
+        {
+         "t": "Corrigé le 10 octobre 2026 après lecture des textes sur Légifrance. La page indiquait à tort qu'une prise renforcée relevait de 10 % ou 20 %, et laissait un doute sur l'ancienneté du logement. Un point reste non vérifié dans la doctrine fiscale (BOFiP), qui n'a pas été relue : la facturation. Les sites d'installateurs et de fournisseurs cités en source indiquent que le taux réduit couvre la borne et la pose quand l'installateur facture les deux, et qu'une borne achetée à part par le client reste à 20 %. Au 1er janvier 2027, ces dispositions du CGI seront reprises dans le CIBS sous une autre numérotation.",
+         "w": true
+        }
+       ],
+       "sources": [
+        {
+         "t": "Légifrance, art. 278-0 bis du CGI (consulté le 10 oct. 2026)",
+         "u": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053562844"
+        },
+        {
+         "t": "Légifrance, art. 30-0 H de l'annexe IV du CGI",
+         "u": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051757592"
+        },
+        {
+         "t": "BOFiP (7 oct. 2026)",
+         "u": "https://bofip.impots.gouv.fr/bofip/15140-PGP.html/ACTU-2026-00126"
+        },
+        {
+         "t": "Recharge Maison",
+         "u": "https://www.recharge-maison.com/blog/tva-5-5-borne-recharge-conditions"
+        },
+        {
+         "t": "Engie",
+         "u": "https://particuliers.engie.fr/electricite/conseils-electricite/conseils-mobilite-electrique/tva-borne-recharge.html"
+        },
+        {
+         "t": "Hellio",
+         "u": "https://faq.hellio.com/tva-borne-recharge"
+        },
+        {
+         "t": "FFB (21 juil. 2023)",
+         "u": "https://www.ffbatiment.fr/actualites-batiment/actualite/ffb53tva5,5pour-cent"
+        }
+       ]
+      },
+      {
+       "tag": "Terminé",
+       "tagType": "end",
+       "titre": "Crédit d'impôt borne (CIBRE)",
+       "open": false,
+       "paras": [
+        {
+         "t": "75 % des dépenses dans la limite de 500 € par borne pilotable, pour les dépenses payées jusqu'au 31 décembre 2025. Non reconduit par la loi de finances 2026.",
+         "w": false
+        },
+        {
+         "t": "Les articles qui parlent d'une prolongation jusqu'en 2027 sont périmés.",
+         "w": true
+        }
+       ],
+       "sources": [
+        {
+         "t": "impots.gouv.fr",
+         "u": "https://www.impots.gouv.fr/particulier/questions/je-viens-dacquerir-une-borne-de-recharge-pour-ma-voiture-electrique-puis-je"
+        },
+        {
+         "t": "Automobile Propre",
+         "u": "https://www.automobile-propre.com/dossiers/credit-impot-installation-borne-recharge/"
+        }
+       ]
+      },
+      {
+       "tag": "Jusqu'à fin 2027",
+       "tagType": "on",
+       "titre": "Borne fournie par l'employeur",
+       "open": false,
+       "paras": [
+        {
+         "t": "La mise à disposition d'une borne par l'employeur n'est pas un avantage en nature jusqu'au 31 décembre 2027, au domicile du salarié comme sur le parking de l'entreprise.",
+         "w": false
+        },
+        {
+         "t": "Annonce (ajouté le 2 nov.) : le gouvernement prévoit de mettre à jour l'arrêté sur les avantages en nature liés aux bornes (cas types simplifiés, fin de l'obligation de démontage en fin de contrat) « avant fin 2026 ». Pas encore de texte.",
+         "w": true
+        }
+       ],
+       "sources": [
+        {
+         "t": "Electra",
+         "u": "https://www.go-electra.com/en/newsroom/benefit-in-kind-electric-car/"
+        },
+        {
+         "t": "Dossier de presse du ministère de l'Économie (15 oct. 2026, relu le 2 nov.)",
+         "u": "https://presse.economie.gouv.fr/download/?id=185587&n=1123%20-%20DP%20-%20%C3%89lectrifions%20la%20France%20!%20-%20Pr%C3%A9sentation%20de%20la%20deuxi%C3%A8me%20phase%20du%20plan%20d%C3%A9lectrification-pdf"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "titre": "Autres",
+     "items": [
+      {
+       "tag": "Annonce",
+       "tagType": "late",
+       "titre": "Prime de 500 € pour une borne pilotable (2027)",
+       "open": true,
+       "paras": [
+        {
+         "t": "Annoncée par le gouvernement le 15 octobre 2026 dans la seconde phase du plan d'électrification : 500 € pour une borne de recharge pilotable à domicile, à partir du 1er janvier 2027, intégrés à la prime CEE pour les véhicules électriques. Elle viendrait en partie combler la fin du crédit d'impôt borne (CIBRE), qui visait lui aussi les bornes pilotables.",
+         "w": false
+        },
+        {
+         "t": "Pas encore de texte : conditions définitives inconnues. Corrigé le 26 octobre : la réservation aux maisons individuelles et le lien avec l'achat d'un véhicule électrique d'occasion, d'abord rapportés par la presse, figurent aussi sur la page officielle de la Direction générale des entreprises du 13 octobre (la page du ministère de l'Économie ne les précise pas). Montant cumulé ou non avec la prime véhicule et exigences techniques de la borne : toujours inconnus.",
+         "w": true
+        }
+       ],
+       "sources": [
+        {
+         "t": "Direction générale des entreprises (13 oct. 2026)",
+         "u": "https://www.entreprises.gouv.fr/la-dge/actualites/mondial-de-lauto-2026-le-gouvernement-renforce-son-engagement-pour-lindustrie"
+        },
+        {
+         "t": "economie.gouv.fr (15 oct. 2026)",
+         "u": "https://www.economie.gouv.fr/actualites/lancement-de-la-seconde-phase-du-plan-delectrification"
+        },
+        {
+         "t": "Journal de l'Automobile (14 oct. 2026)",
+         "u": "https://journalauto.com/services/bercy-devoile-un-plan-borne-pour-les-acheteurs-de-voitures-electriques-doccasion/"
+        },
+        {
+         "t": "Automobile Propre (15 oct. 2026)",
+         "u": "https://www.automobile-propre.com/articles/bornes-de-recharge-a-domicile-une-nouvelle-aide-arrive-mais-avec-des-conditions-precises/"
+        }
+       ]
+      },
+      {
+       "tag": "Variable",
+       "tagType": "on",
+       "titre": "Aides locales",
+       "open": false,
+       "paras": [
+        {
+         "t": "Certaines régions, départements ou communes ajoutent leur propre subvention, souvent cumulable avec la TVA réduite. À vérifier au cas par cas auprès de la collectivité.",
+         "w": false
+        }
+       ],
+       "sources": [
+        {
+         "t": "Engie",
+         "u": "https://particuliers.engie.fr/electricite/conseils-electricite/conseils-mobilite-electrique/tva-borne-recharge.html"
+        },
+        {
+         "t": "Travaux.com",
+         "u": "https://www.travaux.com/electricite/articles/aides-borne-recharge"
+        }
+       ]
+      },
+      {
+       "tag": "À surveiller",
+       "tagType": "late",
+       "titre": "Budget 2027 et fin d'Advenir",
+       "open": true,
+       "paras": [
+        {
+         "t": "Le projet de budget 2027, déposé le 1er octobre, ne rétablit pas le crédit d'impôt borne et ne modifie ni la TVA à 5,5 % ni Advenir, selon l'analyse d'Automobile Propre du 5 octobre. Rien n'est voté à ce stade sur ces points : la commission des finances a rejeté la partie recettes le 9 octobre ; en séance, la motion de rejet a été repoussée le 13 octobre et l'examen des recettes se poursuit sur le texte du gouvernement (aucun vote trouvé sur la TVA des bornes, le crédit d'impôt borne ou Advenir au 23 octobre). Le vote solennel des recettes, prévu le 20 octobre, est reporté au 3 novembre ; l'examen reprend le 27 octobre, avec plus de 2 800 amendements restants selon LCP. Seul vote repéré en lien avec la recharge : le 15 octobre, un amendement a prolongé en 2027 le plafond carburant de 1 000 € de la prime transport versée par l'employeur ; selon LégiFiscal et Selectra, le plafond de 600 € pour les frais de recharge électrique reste inchangé (vote provisoire). La filière, avec l'UFE, demande de le réintroduire pour les bornes pilotables et de réserver la TVA à 5,5 % aux bornes pilotables. Un amendement socialiste à la seconde partie (n° II-CE48, déposé le 9 octobre) propose justement un crédit d'impôt de 500 € par borne pilotable de 2027 à 2031 : simple dépôt, sort inconnu au 24 octobre. Si cette dernière idée était retenue par amendement, une borne non pilotable repasserait à 20 %.",
+         "w": false
+        },
+        {
+         "t": "Pour le transport routier, le projet prévoit une accise réduite sur l'électricité de recharge des camions de plus de 7,5 t, sous réserve d'une autorisation européenne. Advenir est programmé jusqu'à fin 2027 dans le texte en vigueur ; sa prolongation jusqu'en 2030 fait l'objet d'un projet d'arrêté distinct du budget, pas encore publié (voir la rubrique Advenir).",
+         "w": false
+        }
+       ],
+       "sources": [
+        {
+         "t": "Assemblée nationale, amendement n° II-CE48 (9 oct. 2026)",
+         "u": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210C/CION-ECO/CE48.pdf"
+        },
+        {
+         "t": "Assemblée nationale, calendrier (consulté le 23 oct. 2026)",
+         "u": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027"
+        },
+        {
+         "t": "LCP (19 oct. 2026)",
+         "u": "https://lcp.fr/actualites/budget-2027-le-marathon-de-la-partie-recettes-loin-d-etre-termine-le-vote-prevu-demain-a"
+        },
+        {
+         "t": "UFE",
+         "u": "https://ufe-electricite.fr/projet-de-loi-finances-2027-les-propositions-de-lufe/"
+        },
+        {
+         "t": "Automobile Propre (5 oct. 2026)",
+         "u": "https://www.automobile-propre.com/articles/budget-plf-2027-voiture-electrique-eco-score-aides-recharge/"
+        },
+        {
+         "t": "LCP, motion de rejet (14 oct. 2026)",
+         "u": "https://lcp.fr/actualites/la-motion-de-rejet-des-socialistes-n-ayant-pas-ete-adoptee-l-examen-du-budget-pour-2027"
+        },
+        {
+         "t": "France 24 (14 oct. 2026)",
+         "u": "https://www.france24.com/fr/france/20261013-budget-2027-debat-ouvert-assemblee-nationale-deficit-dette-retraites"
+        },
+        {
+         "t": "Le Figaro (9 oct. 2026)",
+         "u": "https://www.lefigaro.fr/conjoncture/budget-2027-la-commission-des-finances-rejette-largement-la-partie-recettes-20261009"
+        },
+        {
+         "t": "Assemblée nationale (dossier consulté le 11 oct. 2026)",
+         "u": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2027"
+        },
+        {
+         "t": "Auto Infos (2 oct. 2026)",
+         "u": "https://www.auto-infos.fr/article/plf-2027-le-gouvernement-projette-d-accelere-le-virage-electrique-du-transport-routier.293795"
+        },
+        {
+         "t": "Journal du Poids Lourd",
+         "u": "https://journaldupoidslourd.com/transport/plf-2027-tout-pour-le-camion-electrique-au-detriment-des-biocarburants/"
+        },
+        {
+         "t": "ISIOHM",
+         "u": "https://isiohm.fr/aides/advenir/"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
